@@ -163,9 +163,9 @@ work for all stability estimates.
 Combining the snow-line and stability constraints, a gas giant in a
 circumstellar system faces two simultaneous requirements: the snow line
 $r_\mathrm{snow}$ defines a minimum formation distance, while $a_c$
-defines a maximum. This leads to a straightforward conclusion: if
-$r_\mathrm{snow} > a_c$, gas-giant formation should be impossible.
-Surprisingly, we do identify such systems. Analysing a catalogue of 811
+defines a maximum. \rev{If $r_\mathrm{snow} > a_c$, core accretion
+beyond the snow line is not available in situ. Such systems nevertheless
+exist.} Analysing a catalogue of 811
 circumstellar systems \citep{Thebault2025}, among which 393 host gas
 giants, we found 17 gas giants where the snow line is larger than
 $0.8\,a_c$ (we choose a conservative buffer of 0.8 to account for the
@@ -197,8 +197,8 @@ $r_\mathrm{snow}$.
     \label{fig:all_systems}
 \end{figure*}
 
-Finding such a sample of planets that does not follow standard theory
-has great potential to test our understanding of planet formation
+Finding such a sample of planets \rev{that standard theory does not
+readily explain} has great potential to test our understanding of planet formation
 processes, and in particular the formation of gas giants, and
 potentially opens the door for new formation channels.
 
@@ -290,18 +290,25 @@ We assume an irradiated disc where the temperature profile is
     \left(\frac{L}{L_\odot}\right)^{\frac{1}{4}}
     \left(\frac{r}{1 \, \text{AU}}\right)^{-\frac{1}{2}},
 \end{align}
+\rev{with $T_\odot(1\,\mathrm{AU}) = 280$\,K \citep{Hayashi1981},}
 which, when evaluated at the water-ice condensation temperature
-($T_\mathrm{freeze} \approx 150$\,K; \citealt{Oberg2011}), gives the
-snow-line distance as
+(\rev{$T_\mathrm{freeze} \approx 170$\,K; \citealt{Hayashi1981,
+Sasselov2000}}), gives the snow-line distance as
 \begin{align}
     r_{\rm snow} \approx 2.7 \left(\frac{L}{L_\odot}\right)^{\frac{1}{2}}
     \, \text{AU}.
 \end{align}
 This result is consistent with the positions of gas giants in our solar
-system. We note that adopting a temperature range of 120--170\,K
-\citep{Oberg2011, Sasselov2000} introduces an uncertainty of roughly
-$\pm15$\% in $r_\mathrm{snow}$; this does not materially change our
-sample or conclusions. We treat the snow line here as the water-ice
+system. \rev{Condensation temperatures of 120--170\,K are quoted in
+the literature \citep{Oberg2011, Sasselov2000}; since
+$r_\mathrm{snow} \propto T_\mathrm{freeze}^{-2}$, the lower values place
+the snow line up to a factor of two further out, which would add systems
+to the unstable sample but remove none of the 17, so the selection is
+conservative in that direction. A temperature 10\% above 170\,K moves the
+snow line 17\% inward and would drop the four systems closest to the
+threshold (HD~28192, HIP~107773, HD~5608 and HD~8673), two of them from
+the fit sample of Sect.~\ref{sec:results}; the slope with the remaining
+seven is 0.63 ($r = 0.89$, $p = 7\times10^{-3}$).} We treat the snow line here as the water-ice
 boundary; other molecular species (CO, HCN) condense at lower
 temperatures further out and are not relevant to the present analysis.
 
@@ -688,11 +695,13 @@ host's disc with a broad range of angular momenta, circularising between
 0.5--0.7\,$r_t$), with no preferred radius and no dependence on where the
 planet is observed. Delivered solids therefore drift through the edge
 rather than collecting at it, and the candidate of
-Sect.~\ref{sec:mechanism} is ruled out for an axisymmetric disc with uniform viscosity. Two routes to a maximum remain untested by this model:
-heating of the edge by companion-driven spiral shocks, which could invert
-the temperature gradient over the last scale heights and requires a
-radiative two-dimensional model, and non-axisymmetric concentration in an
-eccentric disc, which the three-dimensional models of
+Sect.~\ref{sec:mechanism} is ruled out for an axisymmetric disc with
+uniform viscosity. Processes outside that framework remain untested by
+this model: heating of the edge by companion-driven spiral shocks, which
+could invert the temperature gradient over the last scale heights, and
+the non-local deposition of the tidal torque by the same waves, both of
+which require a radiative two-dimensional model, and non-axisymmetric
+concentration in an eccentric disc, which the three-dimensional models of
 \citet{Marzari2025b} make weak ($e_\mathrm{disc} \lesssim 0.03$).}
 
 \begin{figure*}
@@ -777,9 +786,10 @@ scatter of the relation.}
 \label{sec:conclusions}
 %% =========================================================================
 
-We conclude that the sample of gas giants with unstable snow lines must
-have formed through a channel distinct from standard core accretion
-beyond the snow line. \rev{Their positions correlate with the tidal
+\rev{The sample of gas giants with unstable snow lines is difficult to
+explain by core accretion beyond the water snow line under their binary
+architectures, and calls for alternative formation or evolutionary
+pathways. Their positions correlate with the tidal
 truncation radius set by the stellar companion
 ($a_\mathrm{planet} = 0.57\,r_t$, $r = 0.90$, intrinsic scatter
 0.27\,dex), while gas giants with stable snow lines show no such
