@@ -1,0 +1,487 @@
+\begin{thebibliography}{80}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Armitage}(2024)]{Armitage2024}
+Philip~J. {Armitage}.
+\newblock {Planet formation theory: an overview}.
+\newblock \emph{arXiv e-prints}, art. arXiv:2412.11064, December 2024.
+\newblock \doi{10.48550/arXiv.2412.11064}.
+
+\bibitem[{Armitage} et~al.(2002){Armitage}, {Livio}, {Lubow}, and {Pringle}]{Armitage2002}
+Philip~J. {Armitage}, Mario {Livio}, S.~H. {Lubow}, and J.~E. {Pringle}.
+\newblock {Predictions for the frequency and orbital radii of massive extrasolar planets}.
+\newblock \emph{\mnras}, 334\penalty0 (1):\penalty0 248--256, July 2002.
+\newblock \doi{10.1046/j.1365-8711.2002.05531.x}.
+
+\bibitem[{Artymowicz} and {Lubow}(1994)]{Artymowicz1994}
+Pawel {Artymowicz} and Stephen~H. {Lubow}.
+\newblock {Dynamics of Binary-Disk Interaction. I. Resonances and Disk Gap Sizes}.
+\newblock \emph{The Astrophysical Journal}, 421:\penalty0 651, February 1994.
+\newblock \doi{10.1086/173679}.
+
+\bibitem[{Birnstiel} et~al.(2012){Birnstiel}, {Klahr}, and {Ercolano}]{Birnstiel2012}
+T.~{Birnstiel}, H.~{Klahr}, and B.~{Ercolano}.
+\newblock {A simple model for the evolution of the dust population in protoplanetary disks}.
+\newblock \emph{\aap}, 539:\penalty0 A148, March 2012.
+\newblock \doi{10.1051/0004-6361/201118136}.
+
+\bibitem[{Bitsch} et~al.(2015){Bitsch}, {Lambrechts}, and {Johansen}]{Bitsch2015}
+Bertram {Bitsch}, Michiel {Lambrechts}, and Anders {Johansen}.
+\newblock {The growth of planets by pebble accretion in evolving protoplanetary discs}.
+\newblock \emph{A\&A}, 582:\penalty0 A112, October 2015.
+\newblock \doi{10.1051/0004-6361/201526463}.
+
+\bibitem[{Blum} and {Wurm}(2008)]{Blum2008}
+J.~{Blum} and G.~{Wurm}.
+\newblock {The growth mechanisms of macroscopic bodies in protoplanetary disks.}
+\newblock \emph{Annual Review of Astronomy and Astrophysics}, 46:\penalty0 21--56, September 2008.
+\newblock \doi{10.1146/annurev.astro.46.060407.145152}.
+
+\bibitem[{Boley} et~al.(2016){Boley}, {Granados Contreras}, and {Gladman}]{Boley2016}
+A.~C. {Boley}, A.~P. {Granados Contreras}, and B.~{Gladman}.
+\newblock {The In Situ Formation of Giant Planets at Short Orbital Periods}.
+\newblock \emph{The Astrophysical Journal Letters}, 817\penalty0 (2):\penalty0 L17, February 2016.
+\newblock \doi{10.3847/2041-8205/817/2/L17}.
+
+\bibitem[{Cazzoletti} et~al.(2018){Cazzoletti}, {van Dishoeck}, {Pinilla}, {Tazzari}, {Facchini}, {van der Marel}, {Benisty}, {Garufi}, and {P{\'e}rez}]{Cazzoletti2018}
+P.~{Cazzoletti}, E.~F. {van Dishoeck}, P.~{Pinilla}, M.~{Tazzari}, S.~{Facchini}, N.~{van der Marel}, M.~{Benisty}, A.~{Garufi}, and L.~M. {P{\'e}rez}.
+\newblock {Evidence for a massive dust-trapping vortex connected to spirals. Multi-wavelength analysis of the HD 135344B protoplanetary disk}.
+\newblock \emph{Astronomy \& Astrophysics}, 619:\penalty0 A161, November 2018.
+\newblock \doi{10.1051/0004-6361/201834006}.
+
+\bibitem[{Chatterjee} and {Tan}(2014)]{Chatterjee2014}
+Sourav {Chatterjee} and Jonathan~C. {Tan}.
+\newblock {Inside-out Planet Formation}.
+\newblock \emph{The Astrophysical Journal}, 780\penalty0 (1):\penalty0 53, January 2014.
+\newblock \doi{10.1088/0004-637X/780/1/53}.
+
+\bibitem[{Cheng} et~al.(2025){Cheng}, {Trifonov}, {Lee}, {Cantalloube}, {Reffert}, {Ramm}, and {Quirrenbach}]{cheng_retrograde_2025}
+Ho~Wan {Cheng}, Trifon {Trifonov}, Man~Hoi {Lee}, Faustine {Cantalloube}, Sabine {Reffert}, David {Ramm}, and Andreas {Quirrenbach}.
+\newblock {A retrograde planet in a tight binary star system with a white dwarf}.
+\newblock \emph{Nature}, 641\penalty0 (8064):\penalty0 866--870, May 2025.
+\newblock \doi{10.1038/s41586-025-09006-x}.
+
+\bibitem[{Chiang} and {Goldreich}(1997)]{Chiang1997}
+E.~I. {Chiang} and P.~{Goldreich}.
+\newblock {Spectral Energy Distributions of T Tauri Stars with Passive Circumstellar Disks}.
+\newblock \emph{The Astrophysical Journal}, 490\penalty0 (1):\penalty0 368--376, November 1997.
+\newblock \doi{10.1086/304869}.
+
+\bibitem[{Choi} et~al.(2016){Choi}, {Dotter}, {Conroy}, {Cantiello}, {Paxton}, and {Johnson}]{Choi2016}
+Jieun {Choi}, Aaron {Dotter}, Charlie {Conroy}, Matteo {Cantiello}, Bill {Paxton}, and Benjamin~D. {Johnson}.
+\newblock {Mesa Isochrones and Stellar Tracks (MIST). I. Solar-scaled Models}.
+\newblock \emph{\apj}, 823\penalty0 (2):\penalty0 102, June 2016.
+\newblock \doi{10.3847/0004-637X/823/2/102}.
+
+\bibitem[{Cuello} et~al.(2025){Cuello}, {Alaguero}, and {Poblete}]{Cuello2025}
+Nicol{\'a}s {Cuello}, Antoine {Alaguero}, and Pedro~P. {Poblete}.
+\newblock {Circumstellar and Circumbinary Discs in Multiple Stellar Systems}.
+\newblock \emph{Symmetry}, 17\penalty0 (3):\penalty0 344, February 2025.
+\newblock \doi{10.3390/sym17030344}.
+
+\bibitem[{Dominik} and {Tielens}(1997)]{Dominik1997}
+C.~{Dominik} and A.~G.~G.~M. {Tielens}.
+\newblock {The Physics of Dust Coagulation and the Structure of Dust Aggregates in Space}.
+\newblock \emph{The Astrophysical Journal}, 480\penalty0 (2):\penalty0 647--673, May 1997.
+\newblock \doi{10.1086/303996}.
+
+\bibitem[{Do{\u{g}}an} et~al.(2015){Do{\u{g}}an}, {Nixon}, {King}, and {Price}]{Dogan2015}
+Suzan {Do{\u{g}}an}, Chris {Nixon}, Andrew {King}, and Daniel~J. {Price}.
+\newblock {Tearing up a misaligned accretion disc with a binary companion}.
+\newblock \emph{\mnras}, 449\penalty0 (2):\penalty0 1251--1258, May 2015.
+\newblock \doi{10.1093/mnras/stv347}.
+
+\bibitem[{Eggleton}(1983)]{Eggleton1983}
+P.~P. {Eggleton}.
+\newblock {Aproximations to the radii of Roche lobes.}
+\newblock \emph{The Astrophysical Journal}, 268:\penalty0 368--369, May 1983.
+\newblock \doi{10.1086/160960}.
+
+\bibitem[{Ercolano} and {Pascucci}(2017)]{Erc+17}
+Barbara {Ercolano} and Ilaria {Pascucci}.
+\newblock {The dispersal of planet-forming discs: theory confronts observations}.
+\newblock \emph{Royal Society Open Science}, 4\penalty0 (4):\penalty0 170114, April 2017.
+\newblock \doi{10.1098/rsos.170114}.
+
+\bibitem[Feng et~al.(2022)Feng, Butler, Vogt, Clement, Tinney, Cui, Aizawa, Jones, Bailey, Burt, Carter, Crane, Dotti, Holden, Ma, Ogihara, Oppenheimer, O’Toole, Shectman, Wittenmyer, Wang, Wright, and Xuan]{Feng_2022}
+Fabo Feng, R.~Paul Butler, Steven~S. Vogt, Matthew~S. Clement, C.~G. Tinney, Kaiming Cui, Masataka Aizawa, Hugh R.~A. Jones, J.~Bailey, Jennifer Burt, B.~D. Carter, Jeffrey~D. Crane, Francesco~Flammini Dotti, Bradford Holden, Bo~Ma, Masahiro Ogihara, Rebecca Oppenheimer, S.~J. O’Toole, Stephen~A. Shectman, Robert~A. Wittenmyer, Sharon~X. Wang, D.~J. Wright, and Yifan Xuan.
+\newblock 3d selection of 167 substellar companions to nearby stars.
+\newblock \emph{The Astrophysical Journal Supplement Series}, 262\penalty0 (1):\penalty0 21, aug 2022.
+\newblock \doi{10.3847/1538-4365/ac7e57}.
+\newblock URL \url{https://dx.doi.org/10.3847/1538-4365/ac7e57}.
+
+\bibitem[{Feng} et~al.(2015){Feng}, {Wright}, {Nelson}, {Wang}, {Ford}, {Marcy}, {Isaacson}, and {Howard}]{Feng2015}
+Y.~Katherina {Feng}, Jason~T. {Wright}, Benjamin {Nelson}, Sharon~X. {Wang}, Eric~B. {Ford}, Geoffrey~W. {Marcy}, Howard {Isaacson}, and Andrew~W. {Howard}.
+\newblock {The California Planet Survey IV: A Planet Orbiting the Giant Star HD 145934 and Updates to Seven Systems with Long-period Planets}.
+\newblock \emph{The Astrophysical Journal}, 800\penalty0 (1):\penalty0 22, February 2015.
+\newblock \doi{10.1088/0004-637X/800/1/22}.
+
+\bibitem[{Fragner} and {Nelson}(2010)]{Fragner2010}
+M.~M. {Fragner} and R.~P. {Nelson}.
+\newblock {Evolution of warped and twisted accretion discs in close binary systems}.
+\newblock \emph{\aap}, 511:\penalty0 A77, February 2010.
+\newblock \doi{10.1051/0004-6361/200913088}.
+
+\bibitem[{Generozov} et~al.(2025){Generozov}, {Offner}, {Kratter}, {Perets}, {Guszejnov}, and {Grudic}]{Generozov2025}
+Aleksey {Generozov}, Stella {Offner}, Kaitlin {Kratter}, Hagai {Perets}, David {Guszejnov}, and Michael {Grudic}.
+\newblock {Low mass binaries are bound from birth}.
+\newblock In \emph{AAS/Division of Dynamical Astronomy Meeting}, volume~56 of \emph{AAS/Division of Dynamical Astronomy Meeting}, page 501.05, June 2025.
+
+\bibitem[{Goldreich} and {Tremaine}(1979)]{Goldreich1979}
+P.~{Goldreich} and S.~{Tremaine}.
+\newblock {The excitation of density waves at the Lindblad and corotation resonances by an external potential.}
+\newblock \emph{The Astrophysical Journal}, 233:\penalty0 857--871, November 1979.
+\newblock \doi{10.1086/157448}.
+
+\bibitem[{Goldreich} and {Tremaine}(1980)]{Goldreich1980}
+P.~{Goldreich} and S.~{Tremaine}.
+\newblock {Disk-satellite interactions.}
+\newblock \emph{The Astrophysical Journal}, 241:\penalty0 425--441, October 1980.
+\newblock \doi{10.1086/158356}.
+
+\bibitem[{Gong} and {Ji}(2018)]{Gong2018}
+Yan-Xiang {Gong} and Jianghui {Ji}.
+\newblock {Formation of S-type planets in close binaries: scattering-induced tidal capture of circumbinary planets}.
+\newblock \emph{Monthly Notice of the Royal Astronomical Society}, 478\penalty0 (4):\penalty0 4565--4574, August 2018.
+\newblock \doi{10.1093/mnras/sty1300}.
+
+\bibitem[{Greenberg} et~al.(1978){Greenberg}, {Wacker}, {Hartmann}, and {Chapman}]{Greenberg1978}
+Richard {Greenberg}, John~F. {Wacker}, William~K. {Hartmann}, and Clark~R. {Chapman}.
+\newblock {Planetesimals to planets: Numerical simulation of collisional evolution}.
+\newblock \emph{Icarus}, 35\penalty0 (1):\penalty0 1--26, July 1978.
+\newblock \doi{10.1016/0019-1035(78)90057-X}.
+
+\bibitem[{Gundlach} and {Blum}(2015)]{Gundlach2015}
+B.~{Gundlach} and J.~{Blum}.
+\newblock {The Stickiness of Micrometer-sized Water-ice Particles}.
+\newblock \emph{The Astrophysical Journal}, 798\penalty0 (1):\penalty0 34, January 2015.
+\newblock \doi{10.1088/0004-637X/798/1/34}.
+
+\bibitem[{Han} et~al.(2010){Han}, {Lee}, {Kim}, {Mkrtichian}, {Hatzes}, and {Valyavin}]{Han2010}
+Inwoo {Han}, B.~C. {Lee}, K.~M. {Kim}, D.~E. {Mkrtichian}, A.~P. {Hatzes}, and G.~{Valyavin}.
+\newblock {Detection of a planetary companion around the giant star {\ensuremath{\gamma}}$^{1}$ Leonis}.
+\newblock \emph{Astronomy \& Astrophysics}, 509:\penalty0 A24, January 2010.
+\newblock \doi{10.1051/0004-6361/200912536}.
+
+\bibitem[{Hansen} and {Murray}(2013)]{HansenMurray2013}
+Brad M.~S. {Hansen} and Norm {Murray}.
+\newblock {Testing in Situ Assembly with the Kepler Planet Candidate Sample}.
+\newblock \emph{The Astrophysical Journal}, 775\penalty0 (1):\penalty0 53, September 2013.
+\newblock \doi{10.1088/0004-637X/775/1/53}.
+
+\bibitem[{Holman} and {Wiegert}(1999)]{Holman1999}
+Matthew~J. {Holman} and Paul~A. {Wiegert}.
+\newblock {Long-Term Stability of Planets in Binary Systems}.
+\newblock \emph{The Astrophysical Journal}, 117\penalty0 (1):\penalty0 621--628, January 1999.
+\newblock \doi{10.1086/300695}.
+
+\bibitem[{Hori} and {Ikoma}(2011)]{HoriIkoma2011}
+Y.~{Hori} and M.~{Ikoma}.
+\newblock {Gas giant formation with small cores triggered by envelope pollution by icy planetesimals}.
+\newblock \emph{Monthly Notice of the Royal Astronomical Society}, 416\penalty0 (2):\penalty0 1419--1429, September 2011.
+\newblock \doi{10.1111/j.1365-2966.2011.19140.x}.
+
+\bibitem[{Ikoma} and {Kobayashi}(2025)]{Ikoma2025}
+Masahiro {Ikoma} and Hiroshi {Kobayashi}.
+\newblock {Formation of Giant Planets}.
+\newblock \emph{Annual Review of Astronomy and Astrophysics}, 63\penalty0 (1):\penalty0 217--258, August 2025.
+\newblock \doi{10.1146/annurev-astro-052722-094843}.
+
+\bibitem[{Jermyn} et~al.(2023){Jermyn}, {Bauer}, {Schwab}, {Farmer}, {Ball}, {Bellinger}, {Dotter}, {Joyce}, {Marchant}, {Mombarg}, {Wolf}, {Sunny Wong}, {Cinquegrana}, {Farrell}, {Smolec}, {Thoul}, {Cantiello}, {Herwig}, {Toloza}, {Bildsten}, {Townsend}, and {Timmes}]{Jermyn2023}
+Adam~S. {Jermyn}, Evan~B. {Bauer}, Josiah {Schwab}, R.~{Farmer}, Warrick~H. {Ball}, Earl~P. {Bellinger}, Aaron {Dotter}, Meridith {Joyce}, Pablo {Marchant}, Joey S.~G. {Mombarg}, William~M. {Wolf}, Tin~Long {Sunny Wong}, Giulia~C. {Cinquegrana}, Eoin {Farrell}, R.~{Smolec}, Anne {Thoul}, Matteo {Cantiello}, Falk {Herwig}, Odette {Toloza}, Lars {Bildsten}, Richard H.~D. {Townsend}, and F.~X. {Timmes}.
+\newblock {Modules for Experiments in Stellar Astrophysics (MESA): Time-dependent Convection, Energy Conservation, Automatic Differentiation, and Infrastructure}.
+\newblock \emph{The Astrophysical Journal}, 265\penalty0 (1):\penalty0 15, March 2023.
+\newblock \doi{10.3847/1538-4365/acae8d}.
+
+\bibitem[{Jones} et~al.(2021){Jones}, {Wittenmyer}, {Aguilera-G{\'o}mez}, {Soto}, {Torres}, {Trifonov}, {Jenkins}, {Zapata}, {Sarkis}, {Zakhozhay}, {Brahm}, {Ram{\'\i}rez}, {Santana}, {Vines}, {D{\'\i}az}, {Vu{\v{c}}kovi{\'c}}, and {Pantoja}]{Jones2021}
+M.~I. {Jones}, R.~{Wittenmyer}, C.~{Aguilera-G{\'o}mez}, M.~G. {Soto}, P.~{Torres}, T.~{Trifonov}, J.~S. {Jenkins}, A.~{Zapata}, P.~{Sarkis}, O.~{Zakhozhay}, R.~{Brahm}, R.~{Ram{\'\i}rez}, F.~{Santana}, J.~I. {Vines}, M.~R. {D{\'\i}az}, M.~{Vu{\v{c}}kovi{\'c}}, and B.~{Pantoja}.
+\newblock {Four Jovian planets around low-luminosity giant stars observed by the EXPRESS and PPPS}.
+\newblock \emph{A\&A}, 646:\penalty0 A131, February 2021.
+\newblock \doi{10.1051/0004-6361/202038555}.
+
+\bibitem[{Jordan} et~al.(2021){Jordan}, {Kley}, {Picogna}, and {Marzari}]{Jordan2021}
+Lucas~M. {Jordan}, Wilhelm {Kley}, Giovanni {Picogna}, and Francesco {Marzari}.
+\newblock {Disks in close binary stars. {\ensuremath{\gamma}}-Cephei revisited}.
+\newblock \emph{\aap}, 654:\penalty0 A54, October 2021.
+\newblock \doi{10.1051/0004-6361/202141248}.
+
+\bibitem[{Justesen} and {Albrecht}(2019)]{Justesen2019}
+A.~B. {Justesen} and S.~{Albrecht}.
+\newblock {Constraining the orbit of the planet-hosting binary {\ensuremath{\tau}} Bo{\"o}tis. Clues about planetary formation and migration}.
+\newblock \emph{Astronomy \& Astrophysics}, 625:\penalty0 A59, May 2019.
+\newblock \doi{10.1051/0004-6361/201834368}.
+
+\bibitem[{Kanagawa} et~al.(2015){Kanagawa}, {Tanaka}, {Muto}, {Tanigawa}, and {Takeuchi}]{Kanagawa2015_torque_exp}
+K.~D. {Kanagawa}, H.~{Tanaka}, T.~{Muto}, T.~{Tanigawa}, and T.~{Takeuchi}.
+\newblock {Formation of a disc gap induced by a planet: effect of the deviation from Keplerian disc rotation}.
+\newblock \emph{Monthly Notice of the Royal Astronomical Society}, 448\penalty0 (1):\penalty0 994--1006, March 2015.
+\newblock \doi{10.1093/mnras/stv025}.
+
+\bibitem[{Kley} and {Nelson}(2008)]{Kley2008}
+W.~{Kley} and R.~P. {Nelson}.
+\newblock {Planet formation in binary stars: the case of {\ensuremath{\gamma}} Cephei}.
+\newblock \emph{\aap}, 486\penalty0 (2):\penalty0 617--628, August 2008.
+\newblock \doi{10.1051/0004-6361:20079324}.
+
+\bibitem[{Lambrechts} and {Johansen}(2012)]{Lambrechts2012}
+M.~{Lambrechts} and A.~{Johansen}.
+\newblock {Rapid growth of gas-giant cores by pebble accretion}.
+\newblock \emph{A\&A}, 544:\penalty0 A32, August 2012.
+\newblock \doi{10.1051/0004-6361/201219127}.
+
+\bibitem[{Lambrechts} and {Johansen}(2014)]{Lambrechts2014}
+M.~{Lambrechts} and A.~{Johansen}.
+\newblock {Forming the cores of giant planets from the radial pebble flux in protoplanetary discs}.
+\newblock \emph{A\&A}, 572:\penalty0 A107, December 2014.
+\newblock \doi{10.1051/0004-6361/201424343}.
+
+\bibitem[{Larwood} et~al.(1996){Larwood}, {Nelson}, {Papaloizou}, and {Terquem}]{Larwood1996}
+J.~D. {Larwood}, R.~P. {Nelson}, J.~C.~B. {Papaloizou}, and C.~{Terquem}.
+\newblock {The tidally induced warping, precession and truncation of accretion discs in binary systems: three-dimensional simulations}.
+\newblock \emph{\mnras}, 282\penalty0 (2):\penalty0 597--613, September 1996.
+\newblock \doi{10.1093/mnras/282.2.597}.
+
+\bibitem[{Lin} and {Papaloizou}(1986)]{Lin1986c}
+D.~N.~C. {Lin} and John {Papaloizou}.
+\newblock {On the Tidal Interaction between Protoplanets and the Protoplanetary Disk. III. Orbital Migration of Protoplanets}.
+\newblock \emph{\apj}, 309:\penalty0 846, October 1986.
+\newblock \doi{10.1086/164653}.
+
+\bibitem[{Lubow} and {Shu}(1975)]{Lubow1975}
+S.~H. {Lubow} and F.~H. {Shu}.
+\newblock {Gas dynamics of semidetached binaries.}
+\newblock \emph{\apj}, 198:\penalty0 383--405, June 1975.
+\newblock \doi{10.1086/153614}.
+
+\bibitem[{Lubow} et~al.(2015){Lubow}, {Martin}, and {Nixon}]{Lubow2015}
+Stephen~H. {Lubow}, Rebecca~G. {Martin}, and Chris {Nixon}.
+\newblock {Tidal Torques on Misaligned Disks in Binary Systems}.
+\newblock \emph{\apj}, 800\penalty0 (2):\penalty0 96, February 2015.
+\newblock \doi{10.1088/0004-637X/800/2/96}.
+
+\bibitem[{Lynden-Bell} and {Pringle}(1974)]{Lynden-Bell1974}
+D.~{Lynden-Bell} and J.~E. {Pringle}.
+\newblock {The evolution of viscous discs and the origin of the nebular variables.}
+\newblock \emph{Monthly Notice of the Royal Astronomical Society}, 168:\penalty0 603--637, September 1974.
+\newblock \doi{10.1093/mnras/168.3.603}.
+
+\bibitem[{Manara} et~al.(2019){Manara}, {Tazzari}, {Long}, {Herczeg}, {Lodato}, {Rota}, {Cazzoletti}, {van der Plas}, {Pinilla}, {Dipierro}, {Edwards}, {Harsono}, {Johnstone}, {Liu}, {Menard}, {Nisini}, {Ragusa}, {Boehler}, and {Cabrit}]{Manara2019A&A...628A..95M}
+C.~F. {Manara}, M.~{Tazzari}, F.~{Long}, G.~J. {Herczeg}, G.~{Lodato}, A.~A. {Rota}, P.~{Cazzoletti}, G.~{van der Plas}, P.~{Pinilla}, G.~{Dipierro}, S.~{Edwards}, D.~{Harsono}, D.~{Johnstone}, Y.~{Liu}, F.~{Menard}, B.~{Nisini}, E.~{Ragusa}, Y.~{Boehler}, and S.~{Cabrit}.
+\newblock {Observational constraints on dust disk sizes in tidally truncated protoplanetary disks in multiple systems in the Taurus region}.
+\newblock \emph{Astronomy \& Astrophysics}, 628:\penalty0 A95, August 2019.
+\newblock \doi{10.1051/0004-6361/201935964}.
+
+\bibitem[{Marzari} and {D'Angelo}(2025{\natexlab{a}})]{Marzari2025}
+Francesco {Marzari} and Gennaro {D'Angelo}.
+\newblock {Dust supply to close binary systems}.
+\newblock \emph{Astronomy \& Astrophysics}, 695:\penalty0 A53, March 2025{\natexlab{a}}.
+\newblock \doi{10.1051/0004-6361/202453035}.
+
+\bibitem[{Marzari} and {D'Angelo}(2025{\natexlab{b}})]{Marzari2025b}
+Francesco {Marzari} and Gennaro {D'Angelo}.
+\newblock {Gas and dust dynamics in {\ensuremath{\gamma}} Cephei-type disks}.
+\newblock \emph{\aap}, 701:\penalty0 A156, September 2025{\natexlab{b}}.
+\newblock \doi{10.1051/0004-6361/202555533}.
+
+\bibitem[{Masset} et~al.(2006){Masset}, {Morbidelli}, {Crida}, and {Ferreira}]{Masset2006}
+F.~S. {Masset}, A.~{Morbidelli}, A.~{Crida}, and J.~{Ferreira}.
+\newblock {Disk Surface Density Transitions as Protoplanet Traps}.
+\newblock \emph{\apj}, 642\penalty0 (1):\penalty0 478--487, May 2006.
+\newblock \doi{10.1086/500967}.
+
+\bibitem[{Miranda} and {Lai}(2015)]{Miranda2015}
+Ryan {Miranda} and Dong {Lai}.
+\newblock {Tidal truncation of inclined circumstellar and circumbinary discs in young stellar binaries}.
+\newblock \emph{Monthly Notice of the Royal Astronomical Society}, 452\penalty0 (3):\penalty0 2396--2409, September 2015.
+\newblock \doi{10.1093/mnras/stv1450}.
+
+\bibitem[{M{\"u}ller} and {Kley}(2012)]{Muller2012}
+T.~W.~A. {M{\"u}ller} and W.~{Kley}.
+\newblock {Circumstellar disks in binary star systems. Models for {\ensuremath{\gamma}} Cephei and {\ensuremath{\alpha}} Centauri}.
+\newblock \emph{\aap}, 539:\penalty0 A18, March 2012.
+\newblock \doi{10.1051/0004-6361/201118202}.
+
+\bibitem[{{\"O}berg} et~al.(2011){{\"O}berg}, {Murray-Clay}, and {Bergin}]{Oberg2011}
+Karin~I. {{\"O}berg}, Ruth {Murray-Clay}, and Edwin~A. {Bergin}.
+\newblock {The Effects of Snowlines on C/O in Planetary Atmospheres}.
+\newblock \emph{\apjl}, 743\penalty0 (1):\penalty0 L16, December 2011.
+\newblock \doi{10.1088/2041-8205/743/1/L16}.
+
+\bibitem[{Ortiz} et~al.(2016){Ortiz}, {Reffert}, {Trifonov}, {Quirrenbach}, {Mitchell}, {Nowak}, {Buenzli}, {Zimmerman}, {Bonnefoy}, {Skemer}, {Defr{\`e}re}, {Lee}, {Fischer}, and {Hinz}]{Ortiz2016}
+Mauricio {Ortiz}, Sabine {Reffert}, Trifon {Trifonov}, Andreas {Quirrenbach}, David~S. {Mitchell}, Grzegorz {Nowak}, Esther {Buenzli}, Neil {Zimmerman}, Micka{\"e}l {Bonnefoy}, Andy {Skemer}, Denis {Defr{\`e}re}, Man~Hoi {Lee}, Debra~A. {Fischer}, and Philip~M. {Hinz}.
+\newblock {Precise radial velocities of giant stars. IX. HD 59686 Ab: a massive circumstellar planet orbiting a giant star in a 13.6 au eccentric binary system}.
+\newblock \emph{A\&A}, 595:\penalty0 A55, October 2016.
+\newblock \doi{10.1051/0004-6361/201628791}.
+
+\bibitem[{Paardekooper} et~al.(2008){Paardekooper}, {Th{\'e}bault}, and {Mellema}]{Paardekooper2008}
+S.-J. {Paardekooper}, P.~{Th{\'e}bault}, and G.~{Mellema}.
+\newblock {Planetesimal and gas dynamics in binaries}.
+\newblock \emph{\mnras}, 386\penalty0 (2):\penalty0 973--988, May 2008.
+\newblock \doi{10.1111/j.1365-2966.2008.13080.x}.
+
+\bibitem[{Paxton} et~al.(2011){Paxton}, {Bildsten}, {Dotter}, {Herwig}, {Lesaffre}, and {Timmes}]{Paxton2011}
+B.~{Paxton}, L.~{Bildsten}, A.~{Dotter}, F.~{Herwig}, P.~{Lesaffre}, and F.~{Timmes}.
+\newblock {Modules for Experiments in Stellar Astrophysics (MESA)}.
+\newblock \emph{The Astrophysical Journal}, 192:\penalty0 3, jan 2011.
+\newblock \doi{10.1088/0067-0049/192/1/3}.
+
+\bibitem[{Perets}(2010)]{Perets2010}
+Hagai~B. {Perets}.
+\newblock {Second generation planets}.
+\newblock \emph{arXiv e-prints}, art. arXiv:1001.0581, January 2010.
+\newblock \doi{10.48550/arXiv.1001.0581}.
+
+\bibitem[{Pichardo} et~al.(2005){Pichardo}, {Sparke}, and {Aguilar}]{Pichardo2005}
+Barbara {Pichardo}, Linda~S. {Sparke}, and Luis~A. {Aguilar}.
+\newblock {Circumstellar and circumbinary discs in eccentric stellar binaries}.
+\newblock \emph{Monthly Notice of the Royal Astronomical Society}, 359\penalty0 (2):\penalty0 521--530, May 2005.
+\newblock \doi{10.1111/j.1365-2966.2005.08905.x}.
+
+\bibitem[{Poblete} et~al.(2019){Poblete}, {Cuello}, and {Cuadra}]{Poblete2019}
+Pedro~P. {Poblete}, Nicol{\'a}s {Cuello}, and Jorge {Cuadra}.
+\newblock {Dusty clumps in circumbinary discs}.
+\newblock \emph{Monthly Notice of the Royal Astronomical Society}, 489\penalty0 (2):\penalty0 2204--2215, October 2019.
+\newblock \doi{10.1093/mnras/stz2297}.
+
+\bibitem[{Pollack} et~al.(1996){Pollack}, {Hubickyj}, {Bodenheimer}, {Lissauer}, {Podolak}, and {Greenzweig}]{Pollack1996}
+James~B. {Pollack}, Olenka {Hubickyj}, Peter {Bodenheimer}, Jack~J. {Lissauer}, Morris {Podolak}, and Yuval {Greenzweig}.
+\newblock {Formation of the Giant Planets by Concurrent Accretion of Solids and Gas}.
+\newblock \emph{Icarus}, 124\penalty0 (1):\penalty0 62--85, November 1996.
+\newblock \doi{10.1006/icar.1996.0190}.
+
+\bibitem[Quarles et~al.(2020)Quarles, Li, Kostov, and Haghighipour]{Quarles_2020}
+Billy Quarles, Gongjie Li, Veselin Kostov, and Nader Haghighipour.
+\newblock Orbital stability of circumstellar planets in binary systems.
+\newblock \emph{The Astronomical Journal}, 159\penalty0 (3):\penalty0 80, feb 2020.
+\newblock \doi{10.3847/1538-3881/ab64fa}.
+\newblock URL \url{https://doi.org/10.3847/1538-3881/ab64fa}.
+
+\bibitem[{Rafikov}(2013)]{Rafikov2013}
+Roman~R. {Rafikov}.
+\newblock {Planet Formation in Small Separation Binaries: Not so Secularly Excited by the Companion}.
+\newblock \emph{\apjl}, 765\penalty0 (1):\penalty0 L8, March 2013.
+\newblock \doi{10.1088/2041-8205/765/1/L8}.
+
+\bibitem[{Ronco} et~al.(2026){Ronco}, {Guilera}, {Venturini}, {Zoppetti}, and {Miller Bertolami}]{Ronco2026}
+M.~P. {Ronco}, O.~M. {Guilera}, J.~{Venturini}, F.~A. {Zoppetti}, and M.~M. {Miller Bertolami}.
+\newblock {A formation pathway for giant planets in S-type discs of {\ensuremath{\gamma}}-Cephei-like compact binaries}.
+\newblock \emph{\aap}, 711:\penalty0 A65, July 2026.
+\newblock \doi{10.1051/0004-6361/202659923}.
+
+\bibitem[{Safronov}(1972)]{Safronov1972}
+V.~S. {Safronov}.
+\newblock \emph{{Evolution of the protoplanetary cloud and formation of the earth and planets}}.
+\newblock 1972.
+
+\bibitem[{Sasselov} and {Lecar}(2000)]{Sasselov2000}
+D.~D. {Sasselov} and M.~{Lecar}.
+\newblock {On the Snow Line in Dusty Protoplanetary Disks}.
+\newblock \emph{\apj}, 528\penalty0 (2):\penalty0 995--998, January 2000.
+\newblock \doi{10.1086/308209}.
+
+\bibitem[{Shakura} and {Sunyaev}(1973)]{Shakura1973}
+N.~I. {Shakura} and R.~A. {Sunyaev}.
+\newblock {Black holes in binary systems. Observational appearance}.
+\newblock \emph{Astronomy \& Astrophysics}, 24:\penalty0 337--355, January 1973.
+
+\bibitem[{Silsbee} and {Rafikov}(2015)]{Silsbee2015}
+Kedron {Silsbee} and Roman~R. {Rafikov}.
+\newblock {Planet Formation in Binaries: Dynamics of Planetesimals Perturbed by the Eccentric Protoplanetary Disk and the Secondary}.
+\newblock \emph{\apj}, 798\penalty0 (2):\penalty0 71, January 2015.
+\newblock \doi{10.1088/0004-637X/798/2/71}.
+
+\bibitem[{Silsbee} and {Rafikov}(2021)]{Silsbee2021}
+Kedron {Silsbee} and Roman~R. {Rafikov}.
+\newblock {Planet formation in stellar binaries: global simulations of planetesimal growth}.
+\newblock \emph{\aap}, 652:\penalty0 A104, August 2021.
+\newblock \doi{10.1051/0004-6361/202141139}.
+
+\bibitem[Stadler et~al.(2025)Stadler, Benisty, Winter, Izquierdo, Longarini, Galloway-Sprietsma, Curone, Andrews, Bae, Facchini, Rosotti, Teague, Barraza-Alfaro, Cataldi, Cuello, Czekala, Fasano, Flock, Fukagawa, Garg, Hall, Hammond, Hilder, Huang, Ilee, Kanagawa, Lesur, Lodato, Loomis, Menard, Orihara, Pinte, Price, Yen, Wafflard-Fernandez, Wilner, Wölfer, Yoshida, and Zawadzki]{Stadler_2025}
+Jochen Stadler, Myriam Benisty, Andrew~J. Winter, Andrés~F. Izquierdo, Cristiano Longarini, Maria Galloway-Sprietsma, Pietro Curone, Sean~M. Andrews, Jaehan Bae, Stefano Facchini, Giovanni Rosotti, Richard Teague, Marcelo Barraza-Alfaro, Gianni Cataldi, Nicolás Cuello, Ian Czekala, Daniele Fasano, Mario Flock, Misato Fukagawa, Himanshi Garg, Cassandra Hall, Iain Hammond, Thomas Hilder, Jane Huang, John~D. Ilee, Kazuhiro Kanagawa, Geoffroy Lesur, Giuseppe Lodato, Ryan~A. Loomis, Francois Menard, Ryuta Orihara, Christophe Pinte, Daniel~J. Price, Hsi-Wei Yen, Gaylor Wafflard-Fernandez, David~J. Wilner, Lisa Wölfer, Tomohiro~C. Yoshida, and Brianna Zawadzki.
+\newblock exoalma. vi. rotating under pressure: Rotation curves, azimuthal velocity substructures, and gas pressure variations.
+\newblock \emph{The Astrophysical Journal Letters}, 984\penalty0 (1):\penalty0 L11, apr 2025.
+\newblock \doi{10.3847/2041-8213/adb152}.
+\newblock URL \url{https://doi.org/10.3847/2041-8213/adb152}.
+
+\bibitem[{Stammler} and {Birnstiel}(2022)]{Stammler2022}
+Sebastian~M. {Stammler} and Tilman {Birnstiel}.
+\newblock {DustPy: A Python Package for Dust Evolution in Protoplanetary Disks}.
+\newblock \emph{\apj}, 935\penalty0 (1):\penalty0 35, August 2022.
+\newblock \doi{10.3847/1538-4357/ac7d58}.
+
+\bibitem[{Stegmann} et~al.(2025){Stegmann}, {Grishin}, {Johnston}, {Eisner}, {Justham}, {de Mink}, and {Perets}]{Stegmann2025}
+Jakob {Stegmann}, Evgeni {Grishin}, Cole {Johnston}, Nora~L. {Eisner}, Stephen {Justham}, Selma~E. {de Mink}, and Hagai~B. {Perets}.
+\newblock {Planet formation and long-term stability in a very eccentric stellar binary}.
+\newblock \emph{arXiv e-prints}, art. arXiv:2501.05506, January 2025.
+\newblock \doi{10.48550/arXiv.2501.05506}.
+
+\bibitem[{Th{\'e}bault} et~al.(2006){Th{\'e}bault}, {Marzari}, and {Scholl}]{Thebault2006}
+P.~{Th{\'e}bault}, F.~{Marzari}, and H.~{Scholl}.
+\newblock {Relative velocities among accreting planetesimals in binary systems: The circumprimary case}.
+\newblock \emph{\icarus}, 183\penalty0 (1):\penalty0 193--206, July 2006.
+\newblock \doi{10.1016/j.icarus.2006.01.022}.
+
+\bibitem[{Thebault} and {Bonanni}(2025)]{Thebault2025}
+Philippe {Thebault} and Danilo {Bonanni}.
+\newblock {A complete census of planet-hosting binaries}.
+\newblock \emph{arXiv e-prints}, art. arXiv:2506.18759, June 2025.
+\newblock \doi{10.48550/arXiv.2506.18759}.
+
+\bibitem[{Trilling} et~al.(1998){Trilling}, {Benz}, {Guillot}, {Lunine}, {Hubbard}, and {Burrows}]{Trilling1998}
+D.~E. {Trilling}, W.~{Benz}, T.~{Guillot}, J.~I. {Lunine}, W.~B. {Hubbard}, and A.~{Burrows}.
+\newblock {Orbital Evolution and Migration of Giant Planets: Modeling Extrasolar Planets}.
+\newblock \emph{\apj}, 500\penalty0 (1):\penalty0 428--439, June 1998.
+\newblock \doi{10.1086/305711}.
+
+\bibitem[{van der Marel} et~al.(2013){van der Marel}, {van Dishoeck}, {Bruderer}, {Birnstiel}, {Pinilla}, {Dullemond}, {van Kempen}, {Schmalzl}, {Brown}, {Herczeg}, {Mathews}, and {Geers}]{van_der_Marel2013}
+Nienke {van der Marel}, Ewine~F. {van Dishoeck}, Simon {Bruderer}, Til {Birnstiel}, Paola {Pinilla}, Cornelis~P. {Dullemond}, Tim~A. {van Kempen}, Markus {Schmalzl}, Joanna~M. {Brown}, Gregory~J. {Herczeg}, Geoffrey~S. {Mathews}, and Vincent {Geers}.
+\newblock {A Major Asymmetric Dust Trap in a Transition Disk}.
+\newblock \emph{Science}, 340\penalty0 (6137):\penalty0 1199--1202, June 2013.
+\newblock \doi{10.1126/science.1236770}.
+
+\bibitem[{Venturini} and {Helled}(2017)]{VenturiniHelled2017}
+Julia {Venturini} and Ravit {Helled}.
+\newblock {The Formation of Mini-Neptunes}.
+\newblock \emph{The Astrophysical Journal}, 848\penalty0 (2):\penalty0 95, October 2017.
+\newblock \doi{10.3847/1538-4357/aa8cd0}.
+
+\bibitem[{Venturini} et~al.(2026){Venturini}, {Nigioni}, {Ronco}, {Jungo}, and {Emsenhuber}]{Venturini2026}
+Julia {Venturini}, Arianna {Nigioni}, Maria~Paula {Ronco}, Natacha {Jungo}, and Alexandre {Emsenhuber}.
+\newblock {The PAIRS project: a global formation model for planets in binaries: I. Effect of disc truncation on the growth of S-type planets}.
+\newblock \emph{\aap}, 708:\penalty0 A37, March 2026.
+\newblock \doi{10.1051/0004-6361/202557243}.
+
+\bibitem[{Wada} et~al.(2009){Wada}, {Tanaka}, {Suyama}, {Kimura}, and {Yamamoto}]{Wada2009}
+Koji {Wada}, Hidekazu {Tanaka}, Toru {Suyama}, Hiroshi {Kimura}, and Tetsuo {Yamamoto}.
+\newblock {Collisional Growth Conditions for Dust Aggregates}.
+\newblock \emph{The Astrophysical Journal}, 702\penalty0 (2):\penalty0 1490--1501, September 2009.
+\newblock \doi{10.1088/0004-637X/702/2/1490}.
+
+\bibitem[{Weidenschilling}(1977)]{Weidenschilling1977}
+S.~J. {Weidenschilling}.
+\newblock {Aerodynamics of solid bodies in the solar nebula.}
+\newblock \emph{Monthly Notice of the Royal Astronomical Society}, 180:\penalty0 57--70, July 1977.
+\newblock \doi{10.1093/mnras/180.2.57}.
+
+\bibitem[{Whipple}(1972)]{Whipple1972}
+F.~L. {Whipple}.
+\newblock {On certain aerodynamic processes for asteroids and comets}.
+\newblock In Aina {Elvius}, editor, \emph{From Plasma to Planet}, page 211, January 1972.
+
+\bibitem[{Zagaria} et~al.(2021{\natexlab{a}}){Zagaria}, {Rosotti}, and {Lodato}]{Zagaria2021}
+Francesco {Zagaria}, Giovanni~P. {Rosotti}, and Giuseppe {Lodato}.
+\newblock {On dust evolution in planet-forming discs in binary systems - I. Theoretical and numerical modelling: radial drift is faster in binary discs}.
+\newblock \emph{Monthly Notice of the Royal Astronomical Society}, 504\penalty0 (2):\penalty0 2235--2252, June 2021{\natexlab{a}}.
+\newblock \doi{10.1093/mnras/stab985}.
+
+\bibitem[{Zagaria} et~al.(2021{\natexlab{b}}){Zagaria}, {Rosotti}, and {Lodato}]{Zagaria2021b}
+Francesco {Zagaria}, Giovanni~P. {Rosotti}, and Giuseppe {Lodato}.
+\newblock {On dust evolution in planet-forming discs in binary systems - II. Comparison with Taurus and {\ensuremath{\rho}} Ophiuchus (sub-)millimetre observations: discs in binaries have small dust sizes}.
+\newblock \emph{\mnras}, 507\penalty0 (2):\penalty0 2531--2549, October 2021{\natexlab{b}}.
+\newblock \doi{10.1093/mnras/stab2024}.
+
+\end{thebibliography}
